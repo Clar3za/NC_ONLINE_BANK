@@ -10,47 +10,33 @@ The NC Online Bank is a simple banking application implemented in Python using t
 
 ## Features
 - **Account Creation:** Users can create a new bank account by providing their name and initial balance.
-  ![Screenshot (32)](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/d0bb0eae-48aa-44f7-934b-d6c752f632a1)
+- 
+  ![Screenshot 2023-12-10 004830](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/fcc862ee-b8ad-458b-830f-687fc1a75bbd)
+  
 **Create Account**: Users can create a new bank account by providing their name and an initial balance.
-![received_798551848740701](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/de1dcd2a-98b0-4f9a-8c95-b9f11bafc03d)
+  
+![Screenshot 2023-12-10 004848](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/76606b01-5e47-4306-a3cf-d096eb306095)
+![Screenshot 2023-12-10 004904](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/4cb98ab4-f76d-4fb0-b689-ea08d6144eaf)
 
-![Screenshot 2023-12-10 010608](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/f0519883-08dd-41bf-8696-fe5a668e20d2)
 
 - **Deposit:** Account holders can deposit money into their accounts.
 
-  ![Screenshot (33)](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/fc892783-b65a-47bc-9d52-682f2b5e8210)
-
-
-- **Withdrawal:** Account holders can withdraw money, provided they have sufficient funds.
-
-  ![Screenshot (34)](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/7d60c7c9-8724-4fea-aafd-b9fb19df9e16)
-**Deposit Money**: Users can deposit money into their accounts, with real-time balance updates.
-![received_234534909660133](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/27512bbb-7a53-48b0-9a31-aae74a2e3a29)
-
-![Screenshot 2023-12-10 010649](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/84721ae0-1ad6-4da9-88a8-741931c34ab8)
-
-
+![Screenshot 2023-12-10 004926](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/04f3c313-7db9-49ad-8c72-6e437c43ea4a)
+![Screenshot 2023-12-10 004945](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/e372da21-ffd4-4131-998b-fb209c84a58e)
+![Screenshot 2023-12-10 005000](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/571b7b05-7f9a-4230-ae24-6d2161c69184)
+  
 **Check Balance**: Users can check their account balance and view their transaction history.
 
-![received_1059318688743612 (1)](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/c418d643-944e-4fd6-ae6e-b69809969830)
-
-![Screenshot 2023-12-10 010711](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/77ba1cef-7226-44ac-939b-59556ac5f733)
-
+![Screenshot 2023-12-10 005046](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/c193935f-5112-403f-8ed9-780d835ac14b)
 
 **View Transaction History**: Users can view a detailed transaction history for a specific account.
-![received_862782168677546](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/63f598aa-1939-4985-81c3-7c15be1eb811)
 
-![Screenshot 2023-12-10 010744](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/b88aa007-306b-47ee-8cf3-f8222423c0ab)
-
+![Screenshot 2023-12-10 005111](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/70c43f40-9bd4-45ef-8f23-32a63b6550d0)
 
 **Save Transaction History to File**: Users can save their transaction history to a text file for future reference.
-![received_931697355223975](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/139ae5f7-a2e0-43b1-bf79-a624789f3ee8)
 
-![Screenshot 2023-12-10 010900](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/7e8d0533-ffe6-4d61-8fc8-49a37cf870e8)
-
-- **Check Balance:** Users can check the balance of their accounts.
-
-  ![Screenshot (35)](https://github.com/nimfadelgado/NC-Online-Bank/assets/119932703/3d0fa86b-1d98-4363-917c-7e79ab498d5a)
+![Screenshot 2023-12-10 005204](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/0005fca9-f3fa-4688-9694-0f5189935f67)
+![Screenshot 2023-12-10 005242](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/11e9f167-0c2b-47f4-a4a0-54de75b423fa)
 
 **Quit**: Exit the application.
 
