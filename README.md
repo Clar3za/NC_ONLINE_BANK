@@ -39,6 +39,15 @@ The NC Online Bank is a simple banking application implemented in Python using t
 ![Screenshot 2023-12-10 005242](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/11e9f167-0c2b-47f4-a4a0-54de75b423fa)
 
 **Quit**: Exit the application.
+**Quit:** Exit the banking system.
 
-- **Quit:** Exit the banking system.
+Group Members
+
+Clareza Portugal
+
+Programmer Contribution - 50%
+
+Nimfa Delgado
+
+Trouble Shooter Contribution - 50%
 
