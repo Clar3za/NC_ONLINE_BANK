@@ -18,7 +18,7 @@ Based on the given rubric for grading, the group assesed the system and it resul
 | 22-09031 | DELGADO, NIMFA             | 50%   | Troubleshooter       |
 |          | TOTAL                     | 100%   |                      |
 
-## GROUP MEMNER CONTRIBUTIONS
+## GROUP MEMBER CONTRIBUTIONS
 Portugal, Clareza 
 
 Clearly define the problem or task that the program should address.
