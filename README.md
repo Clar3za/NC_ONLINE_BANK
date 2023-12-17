@@ -16,13 +16,16 @@ The NC Online Bank is a simple banking application implemented in Python using t
 **Create Account**: Users can create a new bank account by providing their name and an initial balance.
   
 ![Screenshot 2023-12-10 004848](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/76606b01-5e47-4306-a3cf-d096eb306095)
+
 ![Screenshot 2023-12-10 004904](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/4cb98ab4-f76d-4fb0-b689-ea08d6144eaf)
 
 
 - **Deposit:** Account holders can deposit money into their accounts.
 
 ![Screenshot 2023-12-10 004926](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/04f3c313-7db9-49ad-8c72-6e437c43ea4a)
+
 ![Screenshot 2023-12-10 004945](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/e372da21-ffd4-4131-998b-fb209c84a58e)
+
 ![Screenshot 2023-12-10 005000](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/571b7b05-7f9a-4230-ae24-6d2161c69184)
   
 **Check Balance**: Users can check their account balance and view their transaction history.
@@ -36,12 +39,22 @@ The NC Online Bank is a simple banking application implemented in Python using t
 **Save Transaction History to File**: Users can save their transaction history to a text file for future reference.
 
 ![Screenshot 2023-12-10 005204](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/0005fca9-f3fa-4688-9694-0f5189935f67)
+
 ![Screenshot 2023-12-10 005242](https://github.com/Clar3za/NC_ONLINE_BANK/assets/144468086/11e9f167-0c2b-47f4-a4a0-54de75b423fa)
 
 **Quit**: Exit the application.
+
 **Quit:** Exit the banking system.
 
-Group Members
+
+Tools and Applications used:
+
+Python
+
+Tkinter
+
+
+Group Members:
 
 Clareza Portugal
 
