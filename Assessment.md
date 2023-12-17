@@ -7,12 +7,13 @@ Portugal, Clareza
 Clearly define the problem or task that the program should address.
 Specify the input and output requirements. 
 Outline any constraints or additional features.
-Write the main program or function to solve the problem. Debugger
+Write the main program or function to solve the problem. Lead Developer.
 
 Delgado, Nimfa
 
 Include a testing section with sample inputs and expected outputs.
 Test edge cases and handle potential errors gracefully.
+Debugger.
  
 PEER EVALUATION:
 
