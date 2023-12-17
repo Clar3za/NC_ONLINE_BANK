@@ -47,20 +47,9 @@ The NC Online Bank is a simple banking application implemented in Python using t
 **Quit:** Exit the banking system.
 
 
-Tools and Applications used:
+# Tools and Applications used:
 
 Python
 
 Tkinter
-
-
-Group Members:
-
-Clareza Portugal
-
-Programmer Contribution - 50%
-
-Nimfa Delgado
-
-Trouble Shooter Contribution - 50%
 
