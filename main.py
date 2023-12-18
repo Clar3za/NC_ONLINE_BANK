@@ -44,7 +44,6 @@ class Bank:
             file.write(f"Date: {datetime.now():%Y-%m-%d %H:%M:%S}\n\n")
             file.write("Transaction History:\n")
             file.write("\n".join(transactions))
-            file.write(f"\n\n--------------------------\n\n")
 
 class BankingApp(tk.Tk):
     def __init__(self, bank):
