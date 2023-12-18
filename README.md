@@ -53,7 +53,6 @@ Python
 
 Tkinter
 
-Based on the given rubric for grading, the group assesed the system and it resulted to this:
 
 ## SELF ASSESSMENT
 **Based on the given rubric for grading, the group assesed the system and it resulted to this:**
